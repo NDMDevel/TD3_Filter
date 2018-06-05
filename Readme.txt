@@ -1,4 +1,13 @@
-Sitios utiles:
+*************************
+***** Carpeta DOCs: *****
+
+Contiene documentacion variada, incluyendo manuales de referencia,
+PCB del DAC (proyecto de Eagle) y scripts de MATLAB para diseño de
+filtros y conversiones de formatos Q15.
+
+
+**************************
+***** Sitios utiles: *****
 
 1- MPLAB X IDE: http://www.microchip.com/mplab/mplab-x-ide
 
@@ -19,3 +28,4 @@ Sitios utiles:
 
 4- dsPIC33EP128GP502 documentacion: 
 *Nota: la documentacion de modulos internos del micro (perifericos) estan abajo en la solapa "Documents", seccion "Reference Manual".
+
