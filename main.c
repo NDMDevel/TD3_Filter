@@ -54,7 +54,6 @@ __attribute__((space(ymemory),aligned(256))) uint16_t x[N];
 __attribute__((space(xmemory),aligned(256))) uint16_t h[N]; //TD3_LOAD_MACRO;
 
 void FIR_InitConfig(void);
-
 void TD3_FilterConfig(void);
 
 int main(void)
